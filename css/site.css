@@ -11,4 +11,5 @@ body {
 
 .jumbotron-detail-apple-pie {
   background: url('../images/products/applepie.jpg') no-repeat fixed;
+  background-size: cover;
 }
