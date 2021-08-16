@@ -3,4 +3,12 @@ body {
     padding-bottom: 3rem;
     background-image: url('../images/pattern.png');
     background-repeat: repeat;
-  }
+}
+
+.jumbotron {
+  height: 40vh;
+}
+
+.jumbotron-detail-apple-pie {
+  background: url() no-repeat fixed;
+}
