@@ -13,3 +13,7 @@ body {
   background: url('../images/products/applepie.jpg') no-repeat fixed;
   background-size: cover;
 }
+
+.bg-dark {
+  background-color: purple !important;
+}
